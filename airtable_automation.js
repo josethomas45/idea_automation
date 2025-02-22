@@ -1,4 +1,4 @@
-const AIRTABLE_API_KEY = "your_airtable_api_key";  // Replace with your API Key
+const AIRTABLE_API_KEY = "your_airtable_api_key";  // Replace with your Airtable API Key
 const BASE_ID = "appopz4GXqkTszuJ7";  // Replace with your Airtable Base ID
 const TABLE_NAME = "Ideas";  // Replace with your Airtable table name
 
